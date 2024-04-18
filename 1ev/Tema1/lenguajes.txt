@@ -1,0 +1,50 @@
+LENGUAJES
+Java:
+-Deriva de C y C++
+-Apps compiladas a bytecode
+-Se pueden ejecutar en una máquina virtual de java
+-Orientado a objetos
+-Evita fugas de memoria, el programador determina cuando se crean los objetos
+-Combina el lenguaje de C++ y programación genérica estructurada
+-Alto nivel
+
+JavaScript:
+-Se puede aplicar a un HTML para crear interactividad
+-Orientado a objetos
+-Lado del cliente
+-Sintaxis similar a Java y C++
+-Tipo asociado a un valor y no a una variable, x puede ser un número y luego una cadena
+
+Python:
+-Multiparadigma, soporta la orientación a objetos, programación imperativa y programación funcional
+-Diseñado para ser leído con facilidad
+-Variables dinámicas
+
+Cobol:
+-Usado en sistemas comerciales, financieros y administrativos
+-Diseñado para escribir programas autodocumentados
+-Tipos de datos atómicos
+-Lenguaje parecido al inglés
+
+C:
+-Propósito general
+-Orientado a la implementación de sistemas operativos (Unix)
+-Lenguaje de datos estáticos
+
+C++:
+-Extender el lenguaje de C
+-Permitir manipulación de objetos
+-Híbrido
+-Multiparadigma
+-Lenguaje heredado de C
+-Portátil
+-Separación de un programa en módulos
+-Alto nivel
+
+Visual Basic:
+-Dirigido por eventos
+-Proposito general, pero con facilidades para bases de datos
+-Los compiladores generan código que requiere librerias
+
+Node.JS:
+-Intérprete y entorno para JavaScript con algunas bibliotecas útiles
